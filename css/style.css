@@ -1,0 +1,21 @@
+.container{
+    padding: 5px;
+}
+.container-fluid{
+    padding: 5px;
+}
+.col-3{
+    background-color: salmon;
+}
+.col-5{
+    background-color: rebeccapurple;
+}
+.col-7{
+    background-color: royalblue;
+}
+.col-9{
+    background-color: saddlebrown;
+}
+.navbar-warning{
+    color: white;
+}
